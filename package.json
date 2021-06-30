@@ -1,0 +1,9 @@
+{
+  "name": "hep-template",
+  "version": "1.0.0",
+  "description": "Template repository with Husky & ESLint & Prettier",
+  "main": "index.js",
+  "repository": "https://github.com/vmik7/hep-template.git",
+  "author": "vmik7 <vmik7@yandex.ru>",
+  "license": "MIT"
+}
